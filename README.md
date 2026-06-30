@@ -1,0 +1,1 @@
+This is the repository of the manuscript "Auditory Perception Driven Knowledge Distillation for Joint Noise Reduction and Hearing Loss Compensation". We provide the code implementation of Hear-KD. The experimental data will be released soon.
